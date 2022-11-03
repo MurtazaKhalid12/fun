@@ -1,3 +1,1 @@
-# fun
-this is fun repository
-i love ir
+i have my frist line in readme
